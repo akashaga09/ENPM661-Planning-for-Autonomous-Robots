@@ -1,4 +1,5 @@
 Dijkstra Search Algorithm for Point and Rigid Mobile Robot
+(Teammate - Nevil Patel)
 
 The following libraries have been used:-
 1. numpy
